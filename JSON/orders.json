@@ -1,0 +1,54 @@
+[
+  {
+    "travel": {
+      "city": "Chicago",
+      "hotel": "The Langham, Chicago",
+      "cantHuesped": "2",
+      "days": "5",
+      "name": "Martin",
+      "lastname": "Diaz",
+      "email": "martindiaz@gmail.com",
+      "tel": "231415241",
+      "total": "$63000"
+    }
+  },
+  {
+    "travel": {
+      "city": "New York",
+      "hotel": "The Ritz-Carlton New York, Central Park",
+      "cantHuesped": "3",
+      "days": "5",
+      "name": "Jhon",
+      "lastname": "Doe",
+      "email": "jhondoe@example.com",
+      "tel": "231421331",
+      "total": "$110000"
+    }
+  },
+  {
+    "travel": {
+      "city": "New York",
+      "hotel": "Hilton New York Midtown",
+      "cantHuesped": "2",
+      "days": "2",
+      "name": "Maria",
+      "lastname": "Herrera",
+      "email": "mariaherrera@gmail.com",
+      "tel": "414241231",
+      "total": "$41000"
+    }
+  },
+  {
+    "travel": {
+      "city": "Los Angeles",
+      "hotel": "The Beverly Hills Hotel",
+      "cantHuesped": "2",
+      "days": "2",
+      "name": "Juan",
+      "lastname": "Gimenez",
+      "email": "juangimenez@gmail.com",
+      "tel": "22314124",
+      "total": "$20000"
+    }
+  }
+]

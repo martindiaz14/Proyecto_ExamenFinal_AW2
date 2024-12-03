@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "city": "New York",
+        "price": 5000,
+        "img": "../../assets/NY.jpg",
+        "desc": "New York is a state in the northeastern US, known for New York City and towering Niagara Falls, NYC's island of Manhattan is home to the Empire State Building, Times Square and Central Park. The Brooklyn Bridge connects Manhattan with the borough of Brooklyn. The iconic Statue of Liberty stands in New York Harbor. To the east, Long Island has beaches, the Montauk Lighthouse, the ritzy Hamptons and Fire Island.",
+        "hotels": [
+            {
+                "id": 1,
+                "name": "The Plaza Hotel",
+                "price": 3000
+            },
+            {
+                "id": 2,
+                "name": "Hotel Pennsylvania",
+                "price": 5000
+
+            },
+            {
+                "id": 3,
+                "name": "The Ritz-Carlton New York, Central Park",
+                "price": 7000
+            },
+            {
+                "id": 4,
+                "name": "Hilton New York Midtown",
+                "price": 9000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "city": "Los Angeles",
+        "price": 4000,
+        "img": "../../assets/la.jpg",
+        "desc": "Los Angeles is a sprawling Southern California city and the center of the nation's film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities' hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars' homes.",
+        "hotels": [
+            {
+                "id": 1,
+                "name": "The Beverly Hills Hotel",
+                "price": 4000
+            },
+            {
+                "id": 2,
+                "name": "Hotel Bel-Air",
+                "price": 7000
+            },
+            {
+                "id": 3,
+                "name": "The Westin Bonaventure Hotel & Suites",
+                "price": 3000
+            },
+            {
+                "id": 4,
+                "name": "The Hollywood Roosevelt",
+                "price": 5000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "city": "Chicago",
+        "price": 3000,
+        "img": "../../assets/Chicago.jpg",
+        "desc": "Chicago, on Lake Michigan in Illinois, is among the largest cities in the US. Famed for its bold architecture, it has a skyline punctuated by skyscrapers such as the iconic John Hancock Center, 1,451-ft. Willis Tower (formerly the Sears Tower) and the neo-Gothic Tribune Tower. The city is also renowned for its museums, including the Art Institute of Chicago with its noted Impressionist and Post- Impressionist works.",
+        "hotels": [
+            {
+                "id": 1,
+                "name": "The Langham, Chicago",
+                "price": 6000
+            },
+            {
+                "id": 2,
+                "name": "The Peninsula Chicago",
+                "price": 4000
+            },
+            {
+                "id": 3,
+                "name": "Chicago Marriott Downtown Magnificent Mile",
+                "price": 5000
+            },
+            {
+                "id": 4,
+                "name": "Four Seasons Hotel Chicago",
+                "price": 8000
+
+            }
+        ]
+    }
+]
